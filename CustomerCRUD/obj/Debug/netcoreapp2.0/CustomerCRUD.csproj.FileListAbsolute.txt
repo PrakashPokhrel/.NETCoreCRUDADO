@@ -1,0 +1,12 @@
+C:\Users\SIW\Source\Repos\CustomerCRUD\CustomerCRUD\bin\Debug\netcoreapp2.0\CustomerCRUD.dll
+C:\Users\SIW\Source\Repos\CustomerCRUD\CustomerCRUD\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\SIW\Source\Repos\CustomerCRUD\CustomerCRUD\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\SIW\Source\Repos\CustomerCRUD\CustomerCRUD\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\SIW\Source\Repos\CustomerCRUD\CustomerCRUD\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\SIW\Source\Repos\CustomerCRUD\CustomerCRUD\bin\Debug\netcoreapp2.0\CustomerCRUD.deps.json
+C:\Users\SIW\Source\Repos\CustomerCRUD\CustomerCRUD\bin\Debug\netcoreapp2.0\CustomerCRUD.runtimeconfig.json
+C:\Users\SIW\Source\Repos\CustomerCRUD\CustomerCRUD\bin\Debug\netcoreapp2.0\CustomerCRUD.runtimeconfig.dev.json
+C:\Users\SIW\Source\Repos\CustomerCRUD\CustomerCRUD\obj\Debug\netcoreapp2.0\CustomerCRUD.AssemblyInfoInputs.cache
+C:\Users\SIW\Source\Repos\CustomerCRUD\CustomerCRUD\obj\Debug\netcoreapp2.0\CustomerCRUD.AssemblyInfo.cs
+C:\Users\SIW\Source\Repos\CustomerCRUD\CustomerCRUD\obj\Debug\netcoreapp2.0\CustomerCRUD.dll
+C:\Users\SIW\Source\Repos\CustomerCRUD\CustomerCRUD\obj\Debug\netcoreapp2.0\CustomerCRUD.pdb
